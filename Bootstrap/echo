@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+
+<body>
+  <div class="row mb-5 container mx-auto">
+    <div class="col-lg-12  ">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+          <div class="" style="width: 50%;">
+            <!-- <i class="fa-brands fa-twitter fa-3x"></i> -->
+            <h5>ECHO</h3>
+
+          </div>
+          <a class="navbar-brand" href="#"></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="" style="width: 120%;">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="#">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                    data-bs-toggle="dropdown" aria-expanded="false">
+                    Dropdown
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <li><a class="dropdown-item" href="#">Action</a></li>
+                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                    <li>
+                      <hr class="dropdown-divider">
+                    </li>
+                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                  </ul>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">About</a>
+                </li>
+                <!-- <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Dropdown
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <li><a class="dropdown-item" href="#">Action</a></li>
+                      <li><a class="dropdown-item" href="#">Another action</a></li>
+                      <li><hr class="dropdown-divider"></li>
+                      <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+                  </li> -->
+                <li class="nav-item">
+                  <a class="nav-link " href="#" tabindex="-1" aria-="true">Service</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link " href="#" tabindex="-1" aria-="true">Contact us</a>
+                </li>
+              </ul>
+            </div>
+            <form class="d-flex">
+              <!-- <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"> -->
+              <button class="btn btn-outline-success" type="submit" style="border-radius: 30px; height: 50px;width: 200%;">Download now</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+
+    </div>
+  </div>
+  <div class="jas  "  style="display: flex; justify-content: center;">
+    <div class="" style="width: 80%;">
+    <div class="row mb-5">
+      <div class="col-lg-6 col-md-12 ">
+        <button class="btn btn-outline-success mb-5 p-0" type="submit" style="border-radius: 20px;background-color:rgb(247, 247, 32)">Welcome to our
+          site</button>
+        <h1>Expert SEO, SEM <br>
+          Services in London</h1>
+        <p>Far far away, behind the word mountains, far from the countries Vokalia and
+          Consonantia, there live the blind texts.
+          Separated they live in Bookmarksgrove the coast of the Semantics, a large language ocean.</p>
+          <div class="row">
+            <div class="col-md-6 col-sm-12">
+        <button class="btn btn-outline-success " type="submit"style="border-radius:20px; width: 50%; height: 50px; margin: 15;">How we work</button>
+      </div>
+      <div class="col-md-6 col-sm-12" >
+        <button class="btn btn-outline-success " type="submit"style="border-radius:30px; width: 50%; height: 50px; margin: 15;">Contact us</button>
+      </div>
+      </div>
+      </div>
+      <div class="col-lg-6 col-md-12 ">
+        <img src="hero_1.png.webp" alt="" height="400px" width="100%">
+      </div>
+    </div>
+    <div class="row mb-5 ">
+      <div class="col-lg-12 col-md-12 text-center ">
+        <button class="btn btn-outline-success " type="submit" style="border-radius:30px; width; background-color:rgb(247, 247, 32)">feature</button>
+        <h1 class="one" style="color: olive; ">Our Feature</h1>
+        <p class="" style="width: 100%;">Far far away, behind the word mountains,
+          far from the countries Vokalia and Consonantia, ther
+          Separated they live in Bookmarksgrove right 
+          at the coast of the Semantics, a large language ocean.</p>
+      </div>
+    </div>
+    <div class="row mx-auto mb-5">
+      <div class="col-lg-4 col-md-12 text-center">
+        <i class="fa-solid fa-rocket fa-2xl" style="color: #FFD43B;"></i>
+        <h2>Marketing Analysis</h2>
+        <p>Far far away, behind the word mountains,
+          far from the countries Vokalia and Consonantia, there live the blind texts</p>
+      </div>
+      <div class="col-lg-4 col-md-12  text-center">
+        <i class="fa-solid fa-link fa-2xl" style="color: #FFD43B;"></i>
+        <h2>Marketing Analysis</h2>
+        <p>Far far away, behind the word mountains,
+          far from the countries Vokalia and Consonantia, there live the blind texts</p>
+      </div>
+      <div class="col-lg-4 col-md-12  text-center">
+        <i class="fa-solid fa-shield-halved fa-2xl" style="color: #FFD43B;"></i>
+        <h2>SEO and Backlinks</h2>
+        <p>Far far away, behind the word mountains,
+          far from the countries Vokalia and Consonantia, there live the blind texts</p>
+      </div>
+    </div>
+    <div class="row mb-5">
+      <div class="col-lg-8 col-md-12 ">
+        <img src="hero_1.png.webp" alt="" height="400px" width="100%">
+      </div>
+     <div class="col-lg-4 col-md-12 ">
+      <button class="btn btn-outline-success  p-0" type="submit" style="border-radius: 20px;">About us
+        </button>
+      <h1 class="" style="color:olive;">Why our<br>
+         agency</h1>
+      <p>Separated they live in Bookmarksgrove right
+         at the coast of the Semantics, a large language ocean <br>
+        Far far away, behind the word mountains, far from the countries Vokalia and 
+        Conson</p>
+         <h6>✔️Behind the word mountains</h3>
+         <h6>✔️Bookmarksgrove right at the coast</h3>
+         <h6>✔️Semantics, a large language</h3>
+     <button class="btn btn-outline-success " type="submit"
+        style="border-radius:30px; width: 30%; height: 50px; margin: 20px;">About</button>
+     </div>  
+    </div>
+    <div class="row mb-5 ">
+      <div class="col-lg-12 text-center ">
+        <button class="btn btn-outline-success " type="submit" style="border-radius:30px; w; background-color:rgb(247, 247, 32)">Services</button>
+        <h1 class="one" style="color: olive; ">Our Services</h1>
+      </div>
+    <div class="container p">
+      <div class="row m-0 " style="width: ;; ">
+         <div class="col-lg-6 col-md-12  mx-auto">
+          <div class="card mb-3">
+            <div class="row text-center " style="height: 200px;">
+              <div class="col-md-3 mt-5 ">
+                <!-- <img src="" class="img-fluid rounded-start" alt="..."> -->
+                <i class="fa-solid fa-shield fa-2xl" style="color: #FFD43B; "></i>
+              </div>
+              <div class="col-lg-9 col-md-12 mt-2">
+                <div class="card-body">
+                  <h5 class="card-title">Desgin Marketing</h5>
+                  <p class="card-text" style="opacity: .6;">
+                    Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+                </div>
+              </div>
+            </div>
+          </div>
+         </div>
+         <div class="col-lg-6 col-md-12">
+          <div class="card mb-3" >
+            <div class="row text-center" style="height: 200px;">
+              <div class="col-md-3 mt-5">
+                <!-- <img src="" class="img-fluid rounded-start" alt="..."> -->
+                <!-- <i class="fa-solid fa-link fa-2xl" style="color: #FFD43B;"></i> -->
+        <i class="fa-solid fa-rocket fa-2xl" style="color: #FFD43B;"></i>
+
+              </div>
+              <div class="col-lg-9 col-md-12 mt-2">
+                <div class="card-body">
+                  <h5 class="card-title">SEO Marketing</h5>
+                  <p class="card-text" >
+                     
+                    Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                  <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+                </div>
+              </div>
+            </div>
+          </div>
+         </div>
+      </div>
+      <div class="row m-0 mx-auto" style="width%;; ">
+        <div class="col-lg-6 col-md-12 mx-auto">
+         <div class="card mb-3">
+           <div class="row text-center " style="height: 200px;">
+             <div class="col-md-3 mt-5 ">
+               <!-- <img src="" class="img-fluid rounded-start" alt="..."> -->
+               <!-- <i class="fa-solid fa-shield fa-2xl" style="color: #FFD43B;"></i> -->
+               <i class="fa-solid fa-volume-low fa-2xl" style="color: #FFD43B;"></i>
+             </div>
+             <div class="col-lg-9  md-12 mt-2">
+               <div class="card-body">
+                 <h5 class="card-title">Internet Marketing</h5>
+                 <p class="card-text">
+                   
+                  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+               </div>
+             </div>
+           </div>
+         </div>
+        </div>
+        <div class="col-lg-6 col-md-12 mx-auto">
+         <div class="card mb-3" >
+           <div class="row text-center" style="height: 200px;" >
+             <div class="col-md-3 mt-5">
+               <!-- <img src="" class="img-fluid rounded-start" alt="..."> -->
+               <i class="fa-solid fa-link fa-2xl" style="color: #FFD43B;"></i>
+               <!-- <i class="fa-solid fa-clipboard fa-2xl" style="color: #FFD43B;"></i> -->
+             </div>
+             <div class="col-lg-9 md-12 mt-2 ">
+               <div class="card-body">
+                 <h5 class="card-title">Backlink Marketing</h5>
+                 <p class="card-text">
+                   
+                  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                 <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+               </div>
+             </div>
+           </div>
+         </div>
+        </div>
+     </div>
+   
+     <div class="row m-0 mx-auto" style="w;; ">
+      <div class="col-lg-6 col-md-12 mx-auto">
+       <div class="card mb-3 ">
+         <div class="row text-center " style="height: 200px;">
+           <div class="col-md-3 mt-5  ">
+             <!-- <img src="" class="img-fluid rounded-start" alt="..."> -->
+             <!-- <i class="fa-solid fa-shield fa-2xl" style="color: #FFD43B;"></i> -->
+             <i class="fa-solid fa-clipboard fa-2xl" style="color: #FFD43B;"></i>
+           </div>
+           <div class="col-lg-9 md-12 mt-2">
+             <div class="card-body">
+               <h5 class="card-title">Social Marketing</h5>
+               <p class="card-text">
+                
+                Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+               <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+             </div>
+           </div>
+         </div>
+       </div>
+      </div>
+      <div class="col-lg-6 col-md-12 mx-auto">
+       <div class="card mb-3" >
+         <div class="row text-center" style="height: 200px;" >
+           <div class="col-md-3 mt-5">
+             <!-- <img src="" class="img-fluid rounded-start" alt="..."> -->
+             <!-- <i class="fa-solid fa-link fa-2xl" style="color: #FFD43B;"></i> -->
+             <i class="fa-solid fa-award fa-2xl" style="color: #FFD43B;"></i>
+           </div>
+           <div class="col-lg-9 col-md-12 mb-5 " style="margin-bottom: 40px;">
+             <div class="card-body">
+               <h5 class="card-title">Desgin Marketing</h5>
+               <p class="card-text">
+              
+                Far far away, behind the word mountain  word mountains, far from the countr</p>
+               <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+             </div>
+           </div>
+         </div>
+       </div>
+      </div>
+   </div>
+    </div>
+
+<div class="row mb-5 p-5">
+  <div class="col-lg-12 col-md-12 text-center ">
+    <button class="btn btn-outline-success " type="submit" style="border-radius:30px; wi; background-color: rgb(255, 255, 17);">TESTIMONIALS</button>
+    <h1 class="one" style="color: olive; margin-top: 10px;">Testimonials</h1>
+    <p>Far far away, behind the word mountains,<br>
+      far from the countries Vokalia and Consonantia, ther 
+      Separated they live in Bookmarksgrove right 
+      at the coast of the Semantics, a large language ocean.</p>
+  </div>
+</div>
+<div
+id="carouselExampleControls"
+class="carousel carousel-dark slide "
+data-bs-ride="carousel"
+>
+<div class="carousel-inner">
+  <div class="carousel-item active">
+    <div class="row m-0 justify-content-center mt-5">
+      <div class="col-lg-3 col-md-6 col-sm-12 mx-5 carousel-width ">
+        <div class="card">
+          <div class="card-body img-radius ">
+            <h5 class="card-title"></h5>
+            <p class="card-text">
+              Far far away, behind the word mountains, far from the
+              countries Vokalia and Consonantia, there live the blind
+              texts.
+            </p>
+            <img src="image/download (1).jpeg" alt="..." />
+            <div class="cont-box d-inline-block mt-2">
+              <h5 class="d-inline-block mx-3 mt-2">Roger Scott</h5>
+              <h6 class="d-inline-block mx-3 mt-2">
+                <span>MARKETING MANAGER</span>
+              </h6>
+            </div>
+          </div>
+        </div>
+      </div>  
+
+      <div class="col-lg-3 col-md-6 col-sm-12  mx-5 carousel-width">
+        <div class="card">
+          <div class="card-body img-radius">
+            <h5 class="card-title"></h5>
+            <p class="card-text">
+              Far far away, behind the word mountains, far from the
+              countries Vokalia and Consonantia, there live the blind
+              texts.
+            </p>
+            <img src="image/download (2).jpeg" alt="..." />
+            <div class="cont-box d-inline-block mt-2">
+              <h5 class="d-inline-block mx-3 mt-2">Roger Scott</h5>
+              <h6 class="d-inline-block mx-3 mt-2">
+                <span>MARKETING MANAGER</span>
+              </h6>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 col-sm-12 mx-5 carousel-width">
+        <div class="card">
+          <div class="card-body img-radius">
+            <h5 class="card-title"></h5>
+            <p class="card-text">
+              Far far away, behind the word mountains, far from the
+              countries Vokalia and Consonantia, there live the blind
+              texts.
+            </p>
+            <img src="image/images (1).jpeg" alt="..." />
+            <div class="cont-box d-inline-block mt-2">
+              <h5 class="d-inline-block mx-3 mt-2">Roger Scott</h5>
+              <h6 class="d-inline-block mx-3 mt-2">
+                <span>MARKETING MANAGER</span>
+              </h6>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="carousel-item mt-5">
+    <div class="row m-0 justify-content-center">
+      <div class="col-lg-3 col-md-6 col-sm-12 mx-5 carousel-width">
+        <div class="card">
+          <div class="card-body img-radius">
+            <h5 class="card-title"></h5>
+            <p class="card-text">
+              Far far away, behind the word mountains, far from the
+              countries Vokalia and Consonantia, there live the blind
+              texts.
+            </p>
+            <img src="hat.jpg" alt="..." />
+            <div class="cont-box d-inline-block mt-2">
+              <h5 class="d-inline-block mx-3 mt-2">Roger Scott</h5>
+              <h6 class="d-inline-block mx-3 mt-2">
+                <span>MARKETING MANAGER</span>
+              </h6>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 col-sm-12 mx-5 carousel-width">
+        <div class="card" >
+          <div class="card-body img-radius">
+            <h5 class="card-title"></h5>
+            <p class="card-text">
+              Far far away, behind the word mountains, far from the
+              countries Vokalia and Consonantia, there live the blind
+              texts.
+            </p>
+            <img src="hat.jpg" alt="..." />
+            <div class="cont-box d-inline-block mt-2">
+              <h5 class="d-inline-block mx-3 mt-2">Roger Scott</h5>
+              <h6 class="d-inline-block mx-3 mt-2">
+                <span>MARKETING MANAGER</span>
+              </h6>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 col-sm-12 mx-5 carousel-width">
+        <div class="card">
+          <div class="card-body img-radius">
+            <h5 class="card-title"></h5>
+            <p class="card-text">
+              Far far away, behind the word mountains, far from the
+              countries Vokalia and Consonantia, there live the blind
+              texts.
+            </p>
+            <img src="hat.jpg" alt="..." />
+            <div class="cont-box d-inline-block mt-2">
+              <h5 class="d-inline-block mx-3 mt-2">Roger Scott</h5>
+              <h6 class="d-inline-block mx-3 mt-2">
+                <span>MARKETING MANAGER</span>
+              </h6>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      </div>
+    <div class="container p-5 text-center ">
+      <div class="row justify-content-around">
+        <div class="col-lg-3 col-md-6">
+          <h4>About Cololib</h2>
+            <p>Far far away, behind the word mountains,<br>
+               far from the countries Vokalia and Consonantia, there live the blind texts</p>
+               <h6><i class="fa-brands fa-facebook fa-2xl">  <i class="fa-brands fa-instagram "> <i class="fa-brands fa-square-twitter"></i></i></i></h6>
+        </div>
+        <div class="col-lg-3 col-md-6 p-3">
+          <h4>Pages</h2>
+            <h6>Blog</h6>
+            <h6>About</h6>
+            <h6>Contact</h6>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <h4>Resources</h2>
+            <h6>Blog</h6>
+            <h6>About</h6>
+            <h6>Contact</h6>
+        </div>
+        <div class="col-lg-3 col-md-6 p-3">
+          <h4>Contact</h2>
+            <h6>☏ 12345678</h6>
+            <h6> 📧 info@gmail</h6>
+            <a href="">📍🗺️ 43 Raymouth Rd. Baltemoer, London 3910</a>
+        </div>
+
+      </div>
+
+      <div class="row p-5">
+         <div class="col-lg-12">
+           <p>Copyright ©2024 All rights reserved | This template is made with ❤️️ by Colorlib</p>
+         </div>
+      </div>
+
+   </div> 
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
